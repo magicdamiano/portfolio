@@ -55,8 +55,8 @@ Follow project-specific instructions in the README.md.
 Contact
 Let’s connect! Reach out for collaborations, questions, or feedback:
 
-Email: damianomagic3@gmail.com
-LinkedIn: linkedin.com/in/damiano-stecco
+Email: damianomagic3@gmail.com\
+LinkedIn: linkedin.com/in/damiano-stecco\
 GitHub Issues: Open an issue in my repositories for project-related queries.
 
 License
