@@ -3,10 +3,11 @@ Damiano Stecco's Portfolio
 Hi, I'm Damiano Stecco, a Computer Science student passionate about Artificial Intelligence, Machine Learning, Robotics, and Blockchain. This portfolio showcases my projects, skills, and contributions. Explore my work to see how I apply technology to solve real-world challenges!
 
 About Me
+
 I'm a dedicated CS student with a focus on building intelligent systems and innovative solutions. My goal is to contribute to advancements in AI, robotics, and decentralized technologies. I love learning, coding, and collaborating on impactful projects.
 
-LinkedIn: linkedin.com/in/damiano-stecco
-Email: damianomagic3@gmail.com
+LinkedIn: linkedin.com/in/damiano-stecco\
+Email: damianomagic3@gmail.com\
 GitHub: github.com/magicdamiano
 
 Featured Projects
@@ -17,15 +18,9 @@ Technologies: Python, PyTorch, Streamlit, scikit-learn, MNIST
 Highlights: Achieves high accuracy, visualizes results with a confusion matrix, and offers an interactive UI for uploading digit images.
 Demo: Upload a 28x28 grayscale digit image to see predictions in action.
 
-[Project Name Placeholder] (Link TBD)
-
-Description: (Add a new project, e.g., a robotics simulation using ROS or a blockchain smart contract in Solidity.)
-Technologies: (e.g., ROS, Python, Solidity, Ethereum)
-Highlights: (e.g., Real-time robot navigation, secure transaction processing)
-
 More projects coming soon as I explore new challenges in AI, robotics, and blockchain!
 Skills
-- Programming: Python, C++, JavaScript
+- Programming: Python, C++, Java, JavaScript, sQl.
 
 Machine Learning: PyTorch, scikit-learn, TensorFlow, neural networks, computer vision
 Robotics: ROS, sensor integration, path planning
