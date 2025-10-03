@@ -1,64 +1,42 @@
 Damiano Stecco's PORTFOLIO
-### #
-Hi, I'm Damiano Stecco, a Computer Science student passionate about Artificial Intelligence, Machine Learning, Robotics, and Blockchain. This portfolio showcases my projects, skills, and contributions. Explore my work to see how I apply technology to solve real-world challenges!
+
+Hi, I'm Damiano Stecco, a Computer Science student passionate about Artificial Intelligence, Machine Learning, Robotics, and Cyber Security. This portfolio shows my projects, skills, and contributions. Explore my work to see how I apply technology to solve real-world challenges!
 
 ABOUT ME
-
 I'm a dedicated CS student with a focus on building intelligent systems and innovative solutions. My goal is to contribute to advancements in AI, robotics, and decentralized technologies. I love learning, coding, and collaborating on impactful projects.
 
 LinkedIn: linkedin.com/in/damiano-stecco\
 Email: damianomagic3@gmail.com\
 GitHub: github.com/magicdamiano
 
-FEATURED PROJECTS \
+FEATURED PROJECTS 
 Handwritten Digit Classifier
 
-Description: A machine learning model that classifies handwritten digits (0-9) using a custom PyTorch neural network trained on the MNIST dataset. Includes a Streamlit web app for real-time predictions.\
-Technologies: Python, PyTorch, Streamlit, scikit-learn, MNIST\
-Highlights: Achieves high accuracy, visualizes results with a confusion matrix, and offers an interactive UI for uploading digit images.\
+Description: A machine learning model that classifies handwritten digits (0-9) using a custom PyTorch neural network trained on the MNIST dataset. Includes a Streamlit web app for real-time predictions.
+Technologies: Python, PyTorch, Streamlit, scikit-learn.
+Highlights: Achieves high accuracy, visualizes results with a confusion matrix, and offers an interactive UI for uploading digit images.
 Demo: Upload a 28x28 grayscale digit image to see predictions in action.
 
 More projects coming soon as I explore new challenges in AI, robotics, and blockchain!
 
-SKILLS\
+SKILLS
 - Programming: Python, C++, Java, JavaScript, sQl.
 
 Machine Learning: PyTorch, scikit-learn, TensorFlow, neural networks, computer vision\
 Robotics: ROS, sensor integration, path planning\
 Blockchain: Solidity, Ethereum, smart contracts\
 Tools: Git, Streamlit, Jupyter, Docker\
-Soft Skills: Problem-solving, teamwork, technical communication
-
-Contributions\
-I’m excited to contribute to open-source projects and welcome collaborators! To contribute to my repositories:
-
-Fork the repository.\
-Create a feature branch (git checkout -b feature-branch).\
-Commit changes (git commit -m "Add feature X").\
-Push to the branch (git push origin feature-branch).\
-Open a pull request.
-
-Check out my repositories for contribution opportunities or open an issue with suggestions.\
-Get Started\
-To explore my projects:
-
-Clone a repository, e.g.:\
-git clone https://github.com/magicdamiano/ml-number-classifier.git
+Soft Skills: Problem-solving, teamwork, technical communication.
 
 
-Install dependencies:\
-pip install -r requirements.txt
-Follow project-specific instructions in the README.md.
-
-
-CONTACT:\
+CONTACT:
 Let’s connect! Reach out for collaborations, questions, or feedback:
 
 Email: damianomagic3@gmail.com\
 LinkedIn: linkedin.com/in/damiano-stecco\
 GitHub Issues: Open an issue in my repositories for project-related queries.
 
-License\
+License
 This portfolio is licensed under the MIT License.
 
 Built by Damiano Stecco, 2025
