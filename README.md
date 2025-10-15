@@ -22,9 +22,7 @@ More projects coming soon as I explore new challenges in Pthyton, robotics, and 
 
 SKILLS\
 - Programming: Python, C++, Java, JavaScript, sQl.
-
-Machine Learning: PyTorch, scikit-learn, TensorFlow, neural networks, computer vision\
-Robotics: ROS, sensor integration, path planning\
+Machine Learning: PyTorch, computer vision\
 Blockchain: Solidity, Ethereum, smart contracts\
 Tools: Git, Streamlit, Jupyter, Docker\
 Soft Skills: Problem-solving, teamwork, technical communication.\
@@ -34,7 +32,6 @@ CONTACT:\
 Let’s connect! Reach out for collaborations, questions, or feedback:
 
 Email: damianomagic3@gmail.com\
-LinkedIn: linkedin.com/in/damiano-stecco\
 GitHub Issues: Open an issue in my repositories for project-related queries.\
 
 License\
