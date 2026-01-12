@@ -37,4 +37,4 @@ GitHub Issues: Open an issue in my repositories for project-related queries.\
 License\
 This portfolio is licensed under the MIT License.
 
-Built by Damiano Stecco, 2025
+Built by Damiano, 2025
