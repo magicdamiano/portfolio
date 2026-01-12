@@ -1,6 +1,6 @@
-Damiano Stecco's PORTFOLIO
+Damiano's PORTFOLIO
 
-Hi, I'm Damiano Stecco, a Computer Science student passionate about Artificial Intelligence, Machine Learning, Robotics, and Cyber Security. This portfolio shows my projects, skills, and contributions. Explore my work to see how I apply technology to solve real-world challenges!
+Hi, I'm Damiano, a Computer Science student passionate about Artificial Intelligence, Machine Learning, Robotics, and Cyber Security. This portfolio shows my projects, skills, and contributions. Explore my work to see how I apply technology to solve real-world challenges!
 
 ABOUT ME\
 Cybersecurity and Computing practician with technical foundation in Python, SQL, Java, and secure coding, complemented by practical experience in system troubleshooting, database design, and web development. Currently advancing expertise through ISC2 Certified in Cybersecurity (CC) and a BSc (Hons) in Computing, while delivering hands-on projects that integrate security principles into real-world applications.
